@@ -1,0 +1,43 @@
+h1 {
+    color: aliceblue;
+    font: 25 px;
+    padding: 15 px;
+    text-align: center;
+}
+.headline{
+    color:aliceblue;
+    text-decoration-line:underline overline;
+    text-shadow: 4ch;
+    color:aliceblue
+
+}
+body {
+    border: white dotted 100 px;
+    margin-bottom: 1000 px;
+    background-color: grey;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.container{
+    width: 500px;
+    text-align: center;
+    margin:auto;
+}
+.box-1{
+     border: white solid 4px;
+     color: aliceblue
+}
+img {
+    border: white solid 4px;
+}
+.social{
+    margin-top: 30px;
+    text-align: center;
+    border: white dotted 4px;
+    color:aliceblue;
+}
+.lorem1 {
+    color:aliceblue;
+    margin-top: 30 px;
+    border-bottom:100 px;
+}
